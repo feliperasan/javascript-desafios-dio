@@ -12,4 +12,4 @@ Este repositório contem os desafios de Javascript que foram propostos durante o
 - [x] Inteiro ou Decimal
 - [x] Conta Espaços e Vogais
 - [x] Data por Extenso
-Encontrar o Percentual de Desconto
+- Encontrar o Percentual de Desconto
